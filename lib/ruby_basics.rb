@@ -1,15 +1,15 @@
 def division(num1, num2)
   total = num1/num2
   puts total
- 
+
 end
 
 def assign_variable(value)
-  
+
 end
 
 def argue
-  
+
 end
 
 def greeting
